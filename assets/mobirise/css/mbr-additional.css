@@ -1375,6 +1375,29 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/13a-2000x1125.jpg");
 }
+.cid-qEy8DaAGzO {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qEy8DaAGzO .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qEy8DaAGzO .section-text {
+  padding: 2rem 0;
+}
+.cid-qEy8DaAGzO .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qEy8DaAGzO .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qAdEnnMAG4 {
   padding-top: 60px;
   padding-bottom: 15px;
